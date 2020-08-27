@@ -1,0 +1,5 @@
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Application\bin\Debug\netcoreapp3.1\Account.Application.deps.json
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Application\bin\Debug\netcoreapp3.1\Account.Application.dll
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.AssemblyInfo.cs

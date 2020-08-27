@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlSo2SpTljmenEvafTUxjnuKZYaLnKC3N3MiItJmQIR71ELJmHGS4ocLnzkIt7GDb0TtCISGAwDL7HdNPsxKog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dan\\source\\repos\\TesteDev_NetCore\\Account.Application\\Account.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.7.1\\microsoft.testplatform.objectmodel.16.7.1.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

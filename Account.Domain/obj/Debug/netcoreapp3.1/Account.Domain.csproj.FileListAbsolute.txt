@@ -1,0 +1,9 @@
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\bin\Debug\netcoreapp3.1\Account.Domain.deps.json
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\bin\Debug\netcoreapp3.1\Account.Domain.dll
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\bin\Debug\netcoreapp3.1\Account.Domain.pdb
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\obj\Debug\netcoreapp3.1\Account.Domain.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\obj\Debug\netcoreapp3.1\Account.Domain.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\obj\Debug\netcoreapp3.1\Account.Domain.AssemblyInfo.cs
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\obj\Debug\netcoreapp3.1\Account.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\obj\Debug\netcoreapp3.1\Account.Domain.dll
+C:\Users\Dan\source\repos\TesteDev_NetCore\Account.Domain\obj\Debug\netcoreapp3.1\Account.Domain.pdb
